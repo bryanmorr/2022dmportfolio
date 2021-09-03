@@ -15,7 +15,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #157FC2;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -25,7 +25,7 @@ body {
 	
 }
 .nav {
-	background: #BBBBBB;
+	background: #018F79;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -42,7 +42,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #136FA8;
 	margin: 0px;
 	float: left;
 	width: 100%;
